@@ -1,0 +1,6 @@
+{
+    "base_email": "example@domain.com",
+    "password": "1234567890",
+    "referral_code": "ABCDEFGHIJKL",
+    "desired_referrals": 999999999999
+}
